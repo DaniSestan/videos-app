@@ -1,0 +1,9 @@
+.video-item {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    align-content: center;
+    height: 100%;
+    position: relative;
+    flex-wrap: wrap;
+} 
